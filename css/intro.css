@@ -7,7 +7,7 @@ body {
 }
 
 #header {
-    background: url(/web/20170220180251im_/http://weareinstrument.com/ball/img/header.jpg) 0 0 no-repeat;
+    background: url(https://redcodi.space/ball/img/header.jpg) 0 0 no-repeat;
     height: 90px;
     left: 0;
     padding: 10px 0 0 132px;
@@ -27,7 +27,7 @@ body {
 }
 
 #chrome {
-    background: url(/web/20170220180251im_/http://weareinstrument.com/ball/img/chromeexperiments_badge_02.jpg) 0 0 no-repeat;
+    background: url(https://redcodi.space/ball/img/chromeexperiments_badge_02.jpg) 0 0 no-repeat;
     display: block;
     height: 92px;
     overflow: hidden;
